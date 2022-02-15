@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Adding Config.js and .DS_Store
+Config.js
+.DS_Store
